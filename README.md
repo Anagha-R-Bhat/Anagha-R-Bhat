@@ -1,5 +1,5 @@
 # 💫 About Me:
-hello.. I'm Anagha R Bhat<br>ECE student<br>🎯Goal: To learn new technologies and become a skilled developer
+hello.. I'm Anagha R Bhat 🎯Goal: To learn new technologies and become a skilled developer
 
 
 ## 🌐 Socials:
